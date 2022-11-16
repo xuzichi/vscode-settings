@@ -1,0 +1,46 @@
+{
+  "recommendations": [
+    // theme&lang&icons
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "pkief.material-icon-theme",
+    "zhuangtongfa.material-theme",
+
+    // code checker
+    "EditorConfig.EditorConfig",
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "formulahendry.code-runner",
+    "vadimcn.vscode-lldb",
+    "usernamehw.errorlens",
+
+    // git
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+
+    // markdown
+    "shd101wyy.markdown-preview-enhanced",
+
+    // cpp
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-themes",
+    "twxs.cmake",
+    "ms-vscode.cmake-tools",
+
+    // go
+    "golang.go",
+    "msyrus.go-doc",
+    "766b.go-outliner",
+    "premparihar.gotestexplorer",
+
+    // rust
+    "rust-lang.rust-analyzer",
+
+    // up to you
+    "unional.vscode-sort-package-json",
+    "richie5um2.vscode-sort-json",
+    "GitHub.vscode-pull-request-github",
+    "WakaTime.vscode-wakatime",
+  ]
+}
